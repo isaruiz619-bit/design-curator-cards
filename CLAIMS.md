@@ -5,38 +5,27 @@
 
 ---
 
-## Card 1: Bauhaus
+# CLAIMS (1 verified claim per movement)
 
-### Claim 1
-- **Claim:**
-- **Source link(s):**
-- **Confidence:** High / Medium / Low
-- **Notes:**
-
----
-
-## Card 2: Swiss Style
-
-### Claim 1
-- **Claim:**
-- **Source link(s):**
-- **Confidence:** High / Medium / Low
-- **Notes:**
+## Bauhaus — Verified Claim
+**Claim:** Bauhaus operated from 1919 to 1933.  
+**Source:** https://www.tate.org.uk/art/art-terms/b/bauhaus  
+**How I verified:** I used Tate’s museum summary page and matched the dates to the movement timeline.
 
 ---
 
-## Card 3: [New Wave / Grunge]
-
-### Claim 1
-- **Claim:**
-- **Source link(s):**
-- **Confidence:** High / Medium / Low
-- **Notes:**
+## Swiss Style (International Typographic Style) — Verified Claim
+**Claim:** Swiss Style (International Typographic Style) developed in Switzerland in the 1950s and is known for grid-based layouts and sans-serif typography.  
+**Source:** https://www.britannica.com/art/International-Typographic-Style  
+**How I verified:** I checked Britannica’s overview and confirmed the timeframe + key traits (grid + typography).
 
 ---
 
-## Reflection
+## New Wave Typography — Verified Claim
+**Claim:** New Wave typography emerged in the late 1970s and is associated with designers like Wolfgang Weingart, reacting against strict Swiss typography.  
+**Source:** https://www.eyemagazine.com/feature/article/wolfgang-weingart  
+**How I verified:** I used Eye Magazine’s feature about Weingart to confirm the time period and connection to New Wave typography.
 
-**One AI claim I didn't trust at first and how I verified it:**
 
-*[Write 2–3 sentences. What did the AI say? Why did it feel wrong? What source confirmed or denied it?]*
+---
+
