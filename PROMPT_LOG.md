@@ -7,54 +7,63 @@
 
 ## Prompt 1
 
-- **Phase:** Exploration / Production / Critique *(pick one)*
-- **Prompt name:** *(e.g., "Concept Map", "Draft Labels", "Expert Critique")*
-- **What I sent:**
+- **Phase:** Production
+- **Prompt name:** Draft Bauhaus Label
+- **What I sent:** Write an 80–120 word museum-style label about Bauhaus.
+Audience: general museum visitors.
+Tone: authoritative but accessible.
+Include vocabulary terms like functionalism and modernism.
+Avoid vague words like innovative or iconic.
 
-```
-[Paste the prompt you used here]
-```
 
 - **What I got back (summary):**
 
-*[1–3 sentences: what was useful, what was wrong, what you kept]*
+The AI produced a structured paragraph explaining Bauhaus’ focus on combining art and industry and emphasized functionalism.
 
 - **What I did with it:**
 
-*[Did you pin it? Discard it? Edit it? Promote it to AGENTS.md?]*
+I revised the wording to sound more natural and removed phrases that felt overly formal. I kept the structure but simplified the language.
 
 ---
 
 ## Prompt 2
 
-- **Phase:**
-- **Prompt name:**
+- **Phase:** Production
+- **Prompt name:** Swiss Style Clarification
 - **What I sent:**
 
+
 ```
-[Paste prompt here]
+Explain how Swiss Style differs from minimalism in clear, specific terms.
 ```
+
 
 - **What I got back (summary):**
+The AI explained that Swiss Style focuses on grid systems and typographic hierarchy rather than simply being minimal.
 
 - **What I did with it:**
+I used that distinction in my “Not to be confused with…” section on the Swiss card.
 
 ---
 
 ## Prompt 3
 
-- **Phase:**
-- **Prompt name:**
+- **Phase:** Exploration
+- **Prompt name:** Controlled Vocabulary List
 - **What I sent:**
 
-```
-[Paste prompt here]
-```
+
+
+
+Generate 20 design vocabulary terms related to Bauhaus, Swiss Style, and New Wave.
+Each must include a one-sentence definition.
+
+
 
 - **What I got back (summary):**
+The AI generated a list of terms including functionalism, grid system, postmodernism, and experimental typography.
+
 
 - **What I did with it:**
 
----
-
-*Add more entries as needed. Minimum 3 logged prompts for this assignment.*
+I selected the most relevant 18 terms and added them to AGENTS.md as my controlled vocabulary.
